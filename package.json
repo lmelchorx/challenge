@@ -7,6 +7,7 @@
     "cy:open": "cypress open",
     "cy:run": "cypress run",
     "cy:run-benefits": "cypress run --spec cypress/e2e/benefits-page.cy.js",
+    "cy:run-api": "cypress run --spec cypress/e2e/api-login-page.cy.js",
     "cy:run-headed": "cypress run --headed"
   }
 }
