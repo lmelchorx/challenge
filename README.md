@@ -20,3 +20,5 @@ To start run the test cases you can use this commands
     "cy:run-benefits": "cypress run --spec cypress/e2e/benefits-page.cy.js" - runs the ui testcases
     "cy:run-api" - runs all the api testcases
     "cy:run-headed": "cypress run --headed" runs all the test with the webbrowser
+
+The bug report is included in this repo as "QA bug report"
